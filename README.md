@@ -44,6 +44,6 @@ Unit tests are written using the XCTest framework to ensure that core components
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/FetchRecipeApp.git
+    git clone https://github.com/SreytouchLang/FetchRecipeApp
     ```
 2. Open in Xcode and run on a simulator or device.
