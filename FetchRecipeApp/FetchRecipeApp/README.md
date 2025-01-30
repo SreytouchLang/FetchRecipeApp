@@ -1,5 +1,3 @@
-# takehomeproject-swiftui
-
 # FetchRecipeApp
 
 ## Overview
