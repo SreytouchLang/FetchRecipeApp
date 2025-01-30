@@ -47,3 +47,14 @@ Unit tests are written using the XCTest framework to ensure that core components
     git clone https://github.com/SreytouchLang/FetchRecipeApp
     ```
 2. Open in Xcode and run on a simulator or device.
+
+
+## App Screenshots
+<div style="display: flex; flex-direction: 'row';">
+  <img src="./recipe-view.png" width="30%">
+  <img src="./recipe-detail.png" width="30%">
+  <img src="./link-resource.png" width="30%">
+  <img src="./link-youtube.png" width="30%">
+  <img src="./view-nodata.png" width="30%">
+  <img src="./api-norespon.png" width="30%">
+</div>
